@@ -38,3 +38,16 @@ h1.tema {
 .dropdown>.dropdown-toggle:active {
     pointer-events: none;
 }
+
+.bg { 
+    /* The image used */
+    background-image: url("./img/Vector.svg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
