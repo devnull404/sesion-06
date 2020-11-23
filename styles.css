@@ -30,3 +30,11 @@ h1.tema {
     font-size: 70px;
     color: rgb(0, 84, 88);
 }
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+}
