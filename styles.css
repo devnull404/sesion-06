@@ -1,0 +1,32 @@
+header {
+    box-shadow: 0 0 2px 0 gray;
+}
+.bg-green {
+    background-color: rgba(254, 254, 254, 0.4);
+}
+
+li {
+    margin: 0 15px 0 15px;
+}
+nav {
+    font-size: 14px;
+}
+
+button > * {
+    background-color: green;
+}
+
+.btn-success {
+    color: blue;
+    background-color: green;
+}
+
+.col {
+    padding: 20px;
+    text-align: start;
+}
+
+h1.tema {
+    font-size: 70px;
+    color: rgb(0, 84, 88);
+}
